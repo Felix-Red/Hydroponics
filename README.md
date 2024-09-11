@@ -1,6 +1,6 @@
 # Hydroponics Project Collaboration
 
-This repository contains files related to a hydroponics project, a collaborative effort between Belgium Campus University and Penn State University. Hydroponics, a subset of hydroculture, is an innovative method of growing plants without soil, using mineral nutrient solutions in a water solvent.
+This repository contains files related to a hydroponics project, a collaborative effort between Belgium Campus ITversity and Penn State University. Hydroponics, a subset of hydroculture, is an innovative method of growing plants without soil, using mineral nutrient solutions in a water solvent.
 
 The project, part of **ENGR 422** (Penn State) and **PRJ 381** (Belgium Campus), aims to design, fabricate, and test a functional prototype of a classroom demonstration kit. This kit is designed to educate middle school students on:
 1. The importance of proper nutrition,
