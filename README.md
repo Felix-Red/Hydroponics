@@ -18,4 +18,7 @@ The project is divided into three key subsystems, each managed by students from 
 ### My Contribution
 I collaborated with international students from Penn State University, contributing to the integration of technologies like **Node-RED** and **Arduino Uno** for sensor implementation. This project not only enhanced my technical skills but also deepened my understanding of cultural dynamics, leadership, and teamwork, reinforcing the value of effective collaboration in achieving successful project outcomes.
 
+![](https://github.com/Felix-Red/Hydroponics/blob/master/Screenshot%20(122).png) 
+![](https://github.com/Felix-Red/Hydroponics/blob/master/Screenshot%20(72).png)
+![](https://github.com/Felix-Red/Hydroponics/blob/master/Screenshot%202024-07-11%20173354.png)
 ![](https://github.com/Felix-Red/Hydroponics/blob/master/PXL_20240419_151506411.jpg)
